@@ -6,6 +6,7 @@ In this analysis we created a multiple-line graph that shows the total weekly fa
 ## Results
 Looking at the summary data frame, one can notice that the average fare per Ride is much higher in rural areas. This could be explained by the total number of rides in rural city types that is about 5 times less than the rides in suburban areas and about 10 times less than rides in urban areas. The lack of rides in rural areas may explain the higher average fare per ride, in order to compensate for the lack of rides.
 <img width="695" alt="PyBer Table" src="https://user-images.githubusercontent.com/100797549/163692610-fea70035-cacd-4697-be3b-cc123504a352.png">
+
 The multiple-line graph can provide a more detailed summary of the number of rides throught the months of Janurary through April. The total fare in urban areas tends to fluctuate however it does have the highest number of total fares. During the month of Februrary ride fare cost increases about twice the amount and then falls back down to around during the beginning of March. ![Fig8](https://user-images.githubusercontent.com/100797549/163692742-e87c26c1-848a-4044-9375-9d1cc166eb4d.png)
 
 ## Summary
